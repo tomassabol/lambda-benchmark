@@ -1,0 +1,5 @@
+/asset-input/obj/Release/net8.0/PerformanceBenchmark.csproj.AssemblyReference.cache
+/asset-input/obj/Release/net8.0/PerformanceBenchmark.GeneratedMSBuildEditorConfig.editorconfig
+/asset-input/obj/Release/net8.0/PerformanceBenchmark.AssemblyInfoInputs.cache
+/asset-input/obj/Release/net8.0/PerformanceBenchmark.AssemblyInfo.cs
+/asset-input/obj/Release/net8.0/PerformanceBenchmark.csproj.CoreCompileInputs.cache

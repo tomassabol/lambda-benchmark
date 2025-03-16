@@ -1,0 +1,8 @@
+/asset-output/PerformanceBenchmark
+/asset-output/PerformanceBenchmark.deps.json
+/asset-output/PerformanceBenchmark.runtimeconfig.json
+/asset-output/PerformanceBenchmark.pdb
+/asset-output/Amazon.Lambda.Core.dll
+/asset-output/Amazon.Lambda.RuntimeSupport.dll
+/asset-output/Amazon.Lambda.Serialization.SystemTextJson.dll
+/asset-output/PerformanceBenchmark.dll

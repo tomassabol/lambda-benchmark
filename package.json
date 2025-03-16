@@ -1,0 +1,45 @@
+{
+  "name": "aws-lambda-benchmark",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "format-check": "prettier --check .",
+    "lint": "eslint . --ext .ts --max-warnings 0",
+    "type-check": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@gymbeam/cdk-template": "^2.15.0",
+    "@gymbeam/eslint-config-aws": "^1.2.0",
+    "@gymbeam/event-bus": "^2.22.2",
+    "@tsconfig/node22": "^22.0.0",
+    "@types/aws-lambda": "^8.10.147",
+    "@types/jest": "^29.4.0",
+    "@types/node": "^22.13.10",
+    "@types/uuid": "^9.0.8",
+    "@typescript-eslint/eslint-plugin": "^6.21.0",
+    "@typescript-eslint/parser": "^6.21.0",
+    "aws-cdk-lib": "^2.67.0",
+    "aws-lambda": "^1.0.7",
+    "esbuild": "^0.25.1",
+    "eslint": "^8.57.0",
+    "eslint-config-prettier": "^9.1.0",
+    "eslint-plugin-import": "^2.30.0",
+    "eslint-plugin-json": "^3.1.0",
+    "eslint-plugin-markdown": "^3.0.1",
+    "eslint-plugin-prettier": "^5.2.1",
+    "prettier": "^3.1.1",
+    "prettier-plugin-sh": "^0.13.1",
+    "source-map-support": "^0.5.21",
+    "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@aws-sdk/client-cloudwatch-logs": "^3.767.0",
+    "@aws-sdk/client-dynamodb": "^3.540.0",
+    "@aws-sdk/lib-dynamodb": "^3.540.0",
+    "@gymbeam/aws-common": "^1.3.2",
+    "@gymbeam/dynamodb-tools": "^1.0.17",
+    "@gymbeam/lambda-api": "^0.12.0",
+    "@gymbeam/lambda-api-toolkit": "^1.1.7",
+    "@paralleldrive/cuid2": "^2.2.2"
+  }
+}

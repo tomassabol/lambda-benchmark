@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "TtGX4m9bUYI=",
+  "success": true,
+  "projectFilePath": "/asset-input/PerformanceBenchmark.csproj",
+  "expectedPackageFiles": [
+    "/tmp/dotnet/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/tmp/dotnet/.nuget/packages/amazon.lambda.runtimesupport/1.10.0/amazon.lambda.runtimesupport.1.10.0.nupkg.sha512",
+    "/tmp/dotnet/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.0/amazon.lambda.serialization.systemtextjson.2.4.0.nupkg.sha512",
+    "/tmp/dotnet/.nuget/packages/microsoft.netcore.app.runtime.linux-arm64/8.0.13/microsoft.netcore.app.runtime.linux-arm64.8.0.13.nupkg.sha512",
+    "/tmp/dotnet/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-arm64/8.0.13/microsoft.aspnetcore.app.runtime.linux-arm64.8.0.13.nupkg.sha512",
+    "/tmp/dotnet/.nuget/packages/microsoft.netcore.app.crossgen2.linux-arm64/8.0.13/microsoft.netcore.app.crossgen2.linux-arm64.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

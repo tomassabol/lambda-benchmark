@@ -1,0 +1,419 @@
+{
+  "provided-al2023-go-x86_64": [
+    {
+      "warmStartBilledDuration": 50,
+      "runtime": "provided-al2023",
+      "timestamp": 1742105413,
+      "warmStartDuration": 1.77,
+      "coldStartBilledDuration": 1,
+      "architecture": "x86_64",
+      "id": "lncgr8iut0xxez2rdj162qqk",
+      "functionName": "lambda-performance-benchm-performancebenchmarkgox8-stOitOARXSfH",
+      "coldStartDuration": 0.98,
+      "language": "go",
+      "warmStartMemoryUsed": 16,
+      "coldStartMemoryUsed": 16
+    },
+    {
+      "runtime": "provided-al2023",
+      "timestamp": 1742112652,
+      "functionName": "lambda-performance-benchm-performancebenchmarkgox8-stOitOARXSfH",
+      "language": "go",
+      "coldStartMemoryUsed": 16,
+      "coldStartInitDuration": 48.51,
+      "warmStartBilledDuration": 2,
+      "warmStartDuration": 1.07,
+      "coldStartBilledDuration": 51,
+      "architecture": "x86_64",
+      "id": "b72knxyxkc0phd3ygmpxh81p",
+      "coldStartDuration": 1.72,
+      "warmStartMemoryUsed": 16
+    }
+  ],
+  "provided-al2023-rust-x86_64": [
+    {
+      "runtime": "provided-al2023",
+      "timestamp": 1742112608,
+      "functionName": "lambda-performance-benchm-performancebenchmarkrust-0KPK9fQBteX8",
+      "language": "rust",
+      "coldStartMemoryUsed": 25,
+      "coldStartInitDuration": 46.55,
+      "warmStartBilledDuration": 236,
+      "warmStartDuration": 235.6,
+      "coldStartBilledDuration": 304,
+      "architecture": "x86_64",
+      "id": "gk6zt63ur8b4140ff6iylmxs",
+      "coldStartDuration": 257,
+      "warmStartMemoryUsed": 25
+    },
+    {
+      "warmStartBilledDuration": 350,
+      "runtime": "provided-al2023",
+      "timestamp": 1742105434,
+      "warmStartDuration": 253,
+      "coldStartBilledDuration": 201,
+      "architecture": "x86_64",
+      "id": "ys4yexr83hbkbcjdijsmgpqw",
+      "functionName": "lambda-performance-benchm-performancebenchmarkrust-0KPK9fQBteX8",
+      "coldStartDuration": 200.35,
+      "language": "rust",
+      "warmStartMemoryUsed": 24,
+      "coldStartMemoryUsed": 25
+    }
+  ],
+  "provided-al2023-rust-arm64": [
+    {
+      "warmStartBilledDuration": 229,
+      "runtime": "provided-al2023",
+      "timestamp": 1742105429,
+      "warmStartDuration": 204.83,
+      "coldStartBilledDuration": 188,
+      "architecture": "arm64",
+      "id": "ehpw3sav0z390c25auygrtvt",
+      "functionName": "lambda-performance-benchm-performancebenchmarkrust-Kv5tKlI7R4YD",
+      "coldStartDuration": 187.57,
+      "language": "rust",
+      "warmStartMemoryUsed": 26,
+      "coldStartMemoryUsed": 27
+    },
+    {
+      "runtime": "provided-al2023",
+      "timestamp": 1742112638,
+      "functionName": "lambda-performance-benchm-performancebenchmarkrust-Kv5tKlI7R4YD",
+      "language": "rust",
+      "coldStartMemoryUsed": 26,
+      "coldStartInitDuration": 34.26,
+      "warmStartBilledDuration": 204,
+      "warmStartDuration": 203.29,
+      "coldStartBilledDuration": 244,
+      "architecture": "arm64",
+      "id": "lgypuzqijv43l5v9oxh1uh5e",
+      "coldStartDuration": 209.05,
+      "warmStartMemoryUsed": 27
+    }
+  ],
+  "dotnet8-dotnet-arm64": [
+    {
+      "runtime": "dotnet8",
+      "timestamp": 1742112651,
+      "functionName": "lambda-performance-benchm-performancebenchmarkdotn-e2LgloHkOoZL",
+      "language": "dotnet",
+      "coldStartMemoryUsed": 63,
+      "coldStartInitDuration": 275.74,
+      "warmStartBilledDuration": 34,
+      "warmStartDuration": 33.41,
+      "coldStartBilledDuration": 1039,
+      "architecture": "arm64",
+      "id": "rnwvfln7wdennko0k2kr3g5o",
+      "coldStartDuration": 1038.12,
+      "warmStartMemoryUsed": 63
+    },
+    {
+      "warmStartBilledDuration": 1000,
+      "runtime": "dotnet8",
+      "timestamp": 1742105409,
+      "warmStartDuration": 999.62,
+      "coldStartBilledDuration": 55,
+      "architecture": "arm64",
+      "id": "ksurhv2ex9zdkajw0d0fqkj8",
+      "functionName": "lambda-performance-benchm-performancebenchmarkdotn-e2LgloHkOoZL",
+      "coldStartDuration": 54.63,
+      "language": "dotnet",
+      "warmStartMemoryUsed": 63,
+      "coldStartMemoryUsed": 63
+    }
+  ],
+  "node18-nodejs-x86_64": [
+    {
+      "warmStartBilledDuration": 15,
+      "runtime": "node18",
+      "timestamp": 1742105419,
+      "warmStartDuration": 14.84,
+      "coldStartBilledDuration": 2,
+      "architecture": "x86_64",
+      "id": "zj0yecuba421cz9zkxli3viq",
+      "functionName": "lambda-performance-benchm-performancebenchmarknode-4RQlt7OjlR74",
+      "coldStartDuration": 1.29,
+      "language": "nodejs",
+      "warmStartMemoryUsed": 67,
+      "coldStartMemoryUsed": 68
+    },
+    {
+      "runtime": "node18",
+      "timestamp": 1742112622,
+      "functionName": "lambda-performance-benchm-performancebenchmarknode-4RQlt7OjlR74",
+      "language": "nodejs",
+      "coldStartMemoryUsed": 67,
+      "coldStartInitDuration": 170.93,
+      "warmStartBilledDuration": 2,
+      "warmStartDuration": 1.36,
+      "coldStartBilledDuration": 21,
+      "architecture": "x86_64",
+      "id": "z2wgu4au6wwsklk867m3p83c",
+      "coldStartDuration": 20.2,
+      "warmStartMemoryUsed": 68
+    }
+  ],
+  "provided-al2023-go-arm64": [
+    {
+      "warmStartBilledDuration": 41,
+      "runtime": "provided-al2023",
+      "timestamp": 1742084902,
+      "warmStartDuration": 1.65,
+      "coldStartBilledDuration": 13,
+      "architecture": "arm64",
+      "id": "cwn46jcyjwltfzu3y37gk3kv",
+      "functionName": "lambda-performance-benchm-performancebenchmarkgoar-3YHepuS7CyXI",
+      "coldStartDuration": 12.2,
+      "language": "go",
+      "warmStartMemoryUsed": 15,
+      "coldStartMemoryUsed": 16
+    },
+    {
+      "warmStartBilledDuration": 42,
+      "runtime": "provided-al2023",
+      "timestamp": 1742105415,
+      "warmStartDuration": 5.61,
+      "coldStartBilledDuration": 2,
+      "architecture": "arm64",
+      "id": "yhqwuldpcb7pfryj4y3lgcrd",
+      "functionName": "lambda-performance-benchm-performancebenchmarkgoar-3YHepuS7CyXI",
+      "coldStartDuration": 1.33,
+      "language": "go",
+      "warmStartMemoryUsed": 16,
+      "coldStartMemoryUsed": 16
+    },
+    {
+      "runtime": "provided-al2023",
+      "timestamp": 1742112638,
+      "functionName": "lambda-performance-benchm-performancebenchmarkgoar-3YHepuS7CyXI",
+      "language": "go",
+      "coldStartMemoryUsed": 16,
+      "coldStartInitDuration": 38.48,
+      "warmStartBilledDuration": 2,
+      "warmStartDuration": 1.16,
+      "coldStartBilledDuration": 57,
+      "architecture": "arm64",
+      "id": "t05wylg16qk3yhty4833enuz",
+      "coldStartDuration": 18.5,
+      "warmStartMemoryUsed": 16
+    }
+  ],
+  "python311-python-arm64": [
+    {
+      "warmStartBilledDuration": 2,
+      "runtime": "python311",
+      "timestamp": 1742105409,
+      "warmStartDuration": 1.72,
+      "coldStartBilledDuration": 2,
+      "architecture": "arm64",
+      "id": "yzllgh9f3awiz6cn3gir0ws2",
+      "functionName": "lambda-performance-benchm-performancebenchmarkpyth-76xTI3bF8vws",
+      "coldStartDuration": 1.97,
+      "language": "python",
+      "warmStartMemoryUsed": 32,
+      "coldStartMemoryUsed": 33
+    },
+    {
+      "runtime": "python311",
+      "timestamp": 1742112639,
+      "functionName": "lambda-performance-benchm-performancebenchmarkpyth-76xTI3bF8vws",
+      "language": "python",
+      "coldStartMemoryUsed": 33,
+      "coldStartInitDuration": 74.07,
+      "warmStartBilledDuration": 2,
+      "warmStartDuration": 1.16,
+      "coldStartBilledDuration": 14,
+      "architecture": "arm64",
+      "id": "z6adg7kgczvp891m992c6af1",
+      "coldStartDuration": 13.22,
+      "warmStartMemoryUsed": 33
+    }
+  ],
+  "java21-java-x86_64": [
+    {
+      "warmStartBilledDuration": 151,
+      "runtime": "java21",
+      "timestamp": 1742105431,
+      "warmStartDuration": 151,
+      "coldStartBilledDuration": 2,
+      "architecture": "x86_64",
+      "id": "nlmtinu7u3ycs0tn2u46z615",
+      "functionName": "lambda-performance-benchm-performancebenchmarkjava-fCAKBDZZZJId",
+      "coldStartDuration": 1.83,
+      "language": "java",
+      "warmStartMemoryUsed": 98,
+      "coldStartMemoryUsed": 98
+    },
+    {
+      "runtime": "java21",
+      "timestamp": 1742112607,
+      "functionName": "lambda-performance-benchm-performancebenchmarkjava-fCAKBDZZZJId",
+      "language": "java",
+      "coldStartMemoryUsed": 96,
+      "coldStartInitDuration": 475.43,
+      "warmStartBilledDuration": 3,
+      "warmStartDuration": 2.05,
+      "coldStartBilledDuration": 155,
+      "architecture": "x86_64",
+      "id": "hxz1pkqfg7l2xnhll9rrs78e",
+      "coldStartDuration": 154.06,
+      "warmStartMemoryUsed": 96
+    }
+  ],
+  "java21-java-arm64": [
+    {
+      "warmStartBilledDuration": 172,
+      "runtime": "java21",
+      "timestamp": 1742105451,
+      "warmStartDuration": 171.74,
+      "coldStartBilledDuration": 3,
+      "architecture": "arm64",
+      "id": "a5eihqlxdhflnvu3rcg0rzma",
+      "functionName": "lambda-performance-benchm-performancebenchmarkjava-Mkq4PJ5MWpnH",
+      "coldStartDuration": 2.03,
+      "language": "java",
+      "warmStartMemoryUsed": 97,
+      "coldStartMemoryUsed": 98
+    },
+    {
+      "runtime": "java21",
+      "timestamp": 1742112645,
+      "functionName": "lambda-performance-benchm-performancebenchmarkjava-Mkq4PJ5MWpnH",
+      "language": "java",
+      "coldStartMemoryUsed": 98,
+      "coldStartInitDuration": 481.55,
+      "warmStartBilledDuration": 2,
+      "warmStartDuration": 1.97,
+      "coldStartBilledDuration": 196,
+      "architecture": "arm64",
+      "id": "sruhxv43d7bwfvhtp2h1dms8",
+      "coldStartDuration": 195.29,
+      "warmStartMemoryUsed": 98
+    }
+  ],
+  "python311-python-x86_64": [
+    {
+      "runtime": "python311",
+      "timestamp": 1742112648,
+      "functionName": "lambda-performance-benchm-performancebenchmarkpyth-SBQggHzAKSz5",
+      "language": "python",
+      "coldStartMemoryUsed": 34,
+      "coldStartInitDuration": 74.17,
+      "warmStartBilledDuration": 2,
+      "warmStartDuration": 1.1,
+      "coldStartBilledDuration": 5,
+      "architecture": "x86_64",
+      "id": "jkc4ejuwif8n1km4vgvot796",
+      "coldStartDuration": 4.32,
+      "warmStartMemoryUsed": 34
+    },
+    {
+      "warmStartBilledDuration": 2,
+      "runtime": "python311",
+      "timestamp": 1742105426,
+      "warmStartDuration": 1.49,
+      "coldStartBilledDuration": 3,
+      "architecture": "x86_64",
+      "id": "o9fysjgcxh7hg23vlv6ld99x",
+      "functionName": "lambda-performance-benchm-performancebenchmarkpyth-SBQggHzAKSz5",
+      "coldStartDuration": 2.04,
+      "language": "python",
+      "warmStartMemoryUsed": 33,
+      "coldStartMemoryUsed": 34
+    }
+  ],
+  "node22-nodejs-x86_64": [
+    {
+      "warmStartBilledDuration": 9,
+      "runtime": "node22",
+      "timestamp": 1742105433,
+      "warmStartDuration": 8.77,
+      "coldStartBilledDuration": 2,
+      "architecture": "x86_64",
+      "id": "kuqqg4aqhmyua2nx63z2ycmw",
+      "functionName": "lambda-performance-benchm-performancebenchmarknode-ygcSXvrMDRO5",
+      "coldStartDuration": 1.41,
+      "language": "nodejs",
+      "warmStartMemoryUsed": 68,
+      "coldStartMemoryUsed": 69
+    },
+    {
+      "runtime": "node22",
+      "timestamp": 1742112606,
+      "functionName": "lambda-performance-benchm-performancebenchmarknode-ygcSXvrMDRO5",
+      "language": "nodejs",
+      "coldStartMemoryUsed": 68,
+      "coldStartInitDuration": 144.47,
+      "warmStartBilledDuration": 2,
+      "warmStartDuration": 1.36,
+      "coldStartBilledDuration": 17,
+      "architecture": "x86_64",
+      "id": "j7jcvzeubltd83p1m1883zkb",
+      "coldStartDuration": 16.34,
+      "warmStartMemoryUsed": 69
+    }
+  ],
+  "node18-nodejs-arm64": [
+    {
+      "runtime": "node18",
+      "timestamp": 1742112609,
+      "functionName": "lambda-performance-benchm-performancebenchmarknode-uUDbCNyZZS7t",
+      "language": "nodejs",
+      "coldStartMemoryUsed": 67,
+      "coldStartInitDuration": 175.69,
+      "warmStartBilledDuration": 2,
+      "warmStartDuration": 1.43,
+      "coldStartBilledDuration": 17,
+      "architecture": "arm64",
+      "id": "kk6cje14b2h8w1hid460pm0s",
+      "coldStartDuration": 16.87,
+      "warmStartMemoryUsed": 68
+    },
+    {
+      "warmStartBilledDuration": 38,
+      "runtime": "node18",
+      "timestamp": 1742105431,
+      "warmStartDuration": 37.49,
+      "coldStartBilledDuration": 2,
+      "architecture": "arm64",
+      "id": "uzacxpu2z12tljg8o20n6vph",
+      "functionName": "lambda-performance-benchm-performancebenchmarknode-uUDbCNyZZS7t",
+      "coldStartDuration": 1.74,
+      "language": "nodejs",
+      "warmStartMemoryUsed": 67,
+      "coldStartMemoryUsed": 68
+    }
+  ],
+  "node22-nodejs-arm64": [
+    {
+      "runtime": "node22",
+      "timestamp": 1742112620,
+      "functionName": "lambda-performance-benchm-performancebenchmarknode-L0ysOYPWNgki",
+      "language": "nodejs",
+      "coldStartMemoryUsed": 68,
+      "coldStartInitDuration": 137.44,
+      "warmStartBilledDuration": 2,
+      "warmStartDuration": 1.63,
+      "coldStartBilledDuration": 13,
+      "architecture": "arm64",
+      "id": "xw69xuhi2trcxwk2r54f3rnl",
+      "coldStartDuration": 12.59,
+      "warmStartMemoryUsed": 68
+    },
+    {
+      "warmStartBilledDuration": 8,
+      "runtime": "node22",
+      "timestamp": 1742105417,
+      "warmStartDuration": 7.14,
+      "coldStartBilledDuration": 2,
+      "architecture": "arm64",
+      "id": "zz9zmdflxfkcxho189twcbe0",
+      "functionName": "lambda-performance-benchm-performancebenchmarknode-L0ysOYPWNgki",
+      "coldStartDuration": 1.57,
+      "language": "nodejs",
+      "warmStartMemoryUsed": 68,
+      "coldStartMemoryUsed": 68
+    }
+  ]
+}
